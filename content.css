@@ -1,0 +1,8 @@
+#non-resume-persons {
+	display: inline;
+	float: left;
+	position: absolute;
+	top: 565px;
+	left: 174px;
+	background-color: #cccccc;
+}
